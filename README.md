@@ -6,9 +6,22 @@ Abstract:
 
 In an effort to combat bias we need systems that provide transparency in algorithms. These systems would provide information on what an algorithm decided and why it made its decision. Including the obvious missteps of cultural biases to the biases that are more subtle. This workshop will go over the first steps you can take with new open source tools from IBM and Google called AI Fairness 360 and What-If respectively. We will also briefly point out steps and features that Microsoft and Amazon announced for their upcoming AI transparency tools.  
 
-https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html
+#### [Microsoft](https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions/)
 
-https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/
+#### [Google](https://ai.googleblog.com/2018/09/the-what-if-tool-code-free-probing-of.html)
+
+#### [IBM](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
+
+## Background Reading
+
+- [AI Fairness 360: An extensible toolkit for detecting understanding, and mitigating unwanted bias](https://arxiv.org/pdf/1810.01943.pdf)
+
+- [A reductions approach to fair classification](https://arxiv.org/pdf/1803.02453.pdf)
+
+- [Improving fairness in machine learning systems, what do industry practitioners need?](https://arxiv.org/pdf/1812.05239.pdf)
+
+- [Assessing and addressing algorithmic bias in practice](http://interactions.acm.org/archive/view/november-december-2018/assessing-and-addressing-algorithmic-bias-in-practice)
+
 
 ## Agenda
 
