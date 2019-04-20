@@ -1,5 +1,5 @@
 # Bias in AI Tools for Algorithmic fairness and accountability
-[Explaination of Talk](https://www.youtube.com/watch?v=LFADNppMYZQ)
+[Explanation of Talk](https://www.youtube.com/watch?v=LFADNppMYZQ)
 
 ## Abstract
 Abstract:
