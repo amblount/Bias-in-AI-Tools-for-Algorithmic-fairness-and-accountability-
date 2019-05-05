@@ -25,10 +25,10 @@ In an effort to combat bias we need systems that provide transparency in algorit
 
 ## Agenda
 
-- Let's talk about machines and automation (30 minutes)
-- algorithmic changes in the workplace (30 - minutes)
-- Overview: What is Algorithmic fairness and why should you care? (30 minutes)
-- Organizations working in the field (30 minutes)
+- [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes)
+- [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/1dhOcoNElnAB1SkwEXdnGc4-VkWAda_yC39l8HwP-p-4/edit?usp=sharing) (30 - minutes)
+- [Overview: What is Algorithmic fairness and why should you care?](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes)
+- [Organizations working in the field]() (30 minutes)
 - Examination of algorithms in production and specific instances + how these have been unfair (30 minutes)
 - Company efforts to mitigate bias and tools (1- hour)
 - Hand- On Lab (1.5 hours)
