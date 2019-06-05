@@ -22,6 +22,23 @@ In an effort to combat bias we need systems that provide transparency in algorit
 
 - [Assessing and addressing algorithmic bias in practice](http://interactions.acm.org/archive/view/november-december-2018/assessing-and-addressing-algorithmic-bias-in-practice)
 
+- [Intro to data ethics](https://www.scu.edu/media/ethics-center/technology-ethics/IntroToDataEthics.pdf)
+
+- [Framework for ethical decision making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/)
+
+- [Types of bias](https://developers.google.com/machine-learning/crash-course/fairness/types-of-bias)
+
+- [Trouble with AI Bias](https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/)
+
+- [Algorithm accountability act](https://www.booker.senate.gov/?p=press_release&id=903)
+
+- [Case Study facial recognition]([https://www.scu.edu/ethics-in-technology-practice/case-studies/facial-recognition-technology/)
+
+- [AI Fairness 360 toolkit](https://aif360.mybluemix.net/)
+
+
+
+
 
 ## Agenda
 
