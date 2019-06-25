@@ -1,5 +1,7 @@
 #The Authors 
+
 [Alivia Blount](https://www.linkedin.com/in/aliviablount/)
+
 [Camille Eddy](https://www.linkedin.com/in/camilleeddy/)
 
 # Bias in AI Tools for Algorithmic fairness and accountability
