@@ -81,8 +81,15 @@ teach yourself more
         - Labor and Automation
         - Bias and Inclusion
         - Safety and critical infrastructure
-    - Data & Society
-    - Institute for Humanity
+    - [Data & Society](https://datasociety.net/about/)
+      - Data & society is a research institute working out of New York City focused on the social nd cultural issues arising from data centric and automated technologies.
+        - [On mapping polce violence](https://www.youtube.com/watch?v=ZR64jz_eT1Q)
+    - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+      - FHI is a multidisciplinary research institute at the University of Oxford. Academics at FHI bring the tools of mathematics, philosophy, social sciences, and science to bear on big-picture questions about humanity and its prospects. The Institute is led by founding Director Professor Nick Bostrom. Humanity has the potential for a long and flourishing future. Our mission is to shed light on crucial considerations that might shape our future.
+    - [MIRI - Machine Intelligence Research Institute](https://intelligence.org/about/)
+      - The Machine Intelligence Research Institute is a research nonprofit studying the mathematical underpinnings of intelligent behavior. Our mission is to develop formal tools for the clean design and analysis of general-purpose AI systems, with the intent of making such systems safer and more reliable when they are developed.
+    - [OpenAI](https://openai.com/charter/)
+      - OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome.
   
 - Examination of algorithms in production and specific instances + how these have been unfair (30 minutes) - Camille
 - Company efforts to mitigate bias and tools (1- hour) - What if tool - IBM Tool
