@@ -73,10 +73,16 @@ teach yourself more
 - [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/1dhOcoNElnAB1SkwEXdnGc4-VkWAda_yC39l8HwP-p-4/edit?usp=sharing) (30 - minutes) - Camille
 - [Overview: What is Algorithmic fairness and why should you care?](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes) - Camille
 - [Organizations working in the field]() (30 minutes) - Alivia
-
-  AI Now
-  Data & Society
-  Institute for Humanity
+    - [AI Now](https://ainowinstitute.org/) 
+      - AI Now is a research institution based out of NYU examinging the social implications of aritificial intelligence.
+      - Each year AI now holds a symposium, [2018](https://www.youtube.com/watch?v=NmdAtfcmTNg) [2017](https://www.youtube.com/watch?v=npL_UsK_npE)
+      - Their reserach includes four key areas:
+        - Rights and Liberties
+        - Labor and Automation
+        - Bias and Inclusion
+        - Safety and critical infrastructure
+    - Data & Society
+    - Institute for Humanity
   
 - Examination of algorithms in production and specific instances + how these have been unfair (30 minutes) - Camille
 - Company efforts to mitigate bias and tools (1- hour) - What if tool - IBM Tool
