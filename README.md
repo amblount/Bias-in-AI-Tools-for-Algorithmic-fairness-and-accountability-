@@ -75,7 +75,6 @@ teach yourself more
 - [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes) - Alivia
 - [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/12WWIX6YfzDqSLEt8SguL5qEmyF8bnlxG/edit#slide=id.p1)
 
-- [Additional reading] (https://docs.google.com/presentation/d/1dhOcoNElnAB1SkwEXdnGc4-VkWAda_yC39l8HwP-p-4/edit?usp=sharing) (30 - minutes) - Camille
 - [Overview: What is Algorithmic fairness and why should you care](https://docs.google.com/presentation/d/12WWIX6YfzDqSLEt8SguL5qEmyF8bnlxG/edit#slide=id.p1)
 
 - [Additional Reading](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes) - Camille
