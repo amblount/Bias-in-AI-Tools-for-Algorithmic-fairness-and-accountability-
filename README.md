@@ -1,7 +1,6 @@
-##The Authors 
-
-[Alivia Blount] (https://www.linkedin.com/in/aliviablount/)
-[Camille Eddy] (https://www.linkedin.com/in/camilleeddy/)
+#The Authors 
+[Alivia Blount](https://www.linkedin.com/in/aliviablount/)
+[Camille Eddy](https://www.linkedin.com/in/camilleeddy/)
 
 # Bias in AI Tools for Algorithmic fairness and accountability
 [Explanation of Talk](https://www.youtube.com/watch?v=LFADNppMYZQ)
