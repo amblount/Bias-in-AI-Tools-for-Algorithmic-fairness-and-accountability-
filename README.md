@@ -98,7 +98,7 @@ teach yourself more
     - [OpenAI](https://openai.com/charter/)
       - OpenAI’s mission is to ensure that artificial general intelligence (AGI)—by which we mean highly autonomous systems that outperform humans at most economically valuable work—benefits all of humanity. We will attempt to directly build safe and beneficial AGI, but will also consider our mission fulfilled if our work aids others to achieve this outcome.
   
-- [Examination of algorithms in production and specific instances + how these have been unfair (30 minutes) - Camille](https://docs.google.com/presentation/d/1g4L9s6vz7yugt4oeGKK4-5aZeSqtLKZj/edit#slide=id.p1)
+- [Examination of algorithms in production and specific instances + how these have been unfair (30 minutes) - Camille(https://docs.google.com/presentation/d/1g4L9s6vz7yugt4oeGKK4-5aZeSqtLKZj/edit#slide=id.p1)
 - Company efforts to mitigate bias and tools (1- hour) - What if tool - IBM Tool
 - Hand- On Lab (1.5 hours)
 - Stakeholders, who is responsible and for what? (1 - hour)
@@ -109,7 +109,7 @@ teach yourself more
   
   
 - Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes) - Alivia
-- [Algorithmically enhanced machines - when hardware and software combine (30 -minutes) - Camille](https://drive.google.com/file/d/17DmuIMZXEwYJ9V-8VW9eI3j3YSDMm4k9/view?usp=sharing)
+- [Algorithmically enhanced machines - when hardware and software combine (30 -minutes) - Camille(https://drive.google.com/file/d/17DmuIMZXEwYJ9V-8VW9eI3j3YSDMm4k9/view?usp=sharing)
 
   - autonomous fleets
   - ai robots - boston dynamics
