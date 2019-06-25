@@ -41,16 +41,55 @@ In an effort to combat bias we need systems that provide transparency in algorit
 
 [Kaggle](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&maintainerOrgId=4)
 
+## Product Examples
+
+1. [Microsoft AI Bot - Tay]()
+
+2. [Norman]()
+
+3. [Contextual Lineup - Facial Recognition Database]()
+
+  - People are unknowingly added to the system
+  
+  - 
+
+4. [Dreamers - ICE Raids]()
+
+5. [Autonomous fleets - pickups]() 
+
+6. [Housing Policies]()
+
+## Process
+
+Get involved in the conversation and understanding what is under the hood
+go back to the first time
+teach yourself more
+
+
 
 ## Agenda
 
-- [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes)
-- [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/1dhOcoNElnAB1SkwEXdnGc4-VkWAda_yC39l8HwP-p-4/edit?usp=sharing) (30 - minutes)
-- [Overview: What is Algorithmic fairness and why should you care?](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes)
-- [Organizations working in the field]() (30 minutes)
-- Examination of algorithms in production and specific instances + how these have been unfair (30 minutes)
-- Company efforts to mitigate bias and tools (1- hour)
+- [Let's talk about machines and automation](https://docs.google.com/presentation/d/1TEFb3xhg765oZb977kqL88mW27asBvm070WGKtI-7ic/edit?usp=sharing) (30 minutes) - Alivia
+- [Algorithmic changes in the workplace](https://docs.google.com/presentation/d/1dhOcoNElnAB1SkwEXdnGc4-VkWAda_yC39l8HwP-p-4/edit?usp=sharing) (30 - minutes) - Camille
+- [Overview: What is Algorithmic fairness and why should you care?](https://docs.google.com/presentation/d/17Yxf31XvD8O9Prc9BhVE3H32Cgt-RMYF68Kvv4Bcbao/edit?usp=sharing) (30 minutes) - Camille
+- [Organizations working in the field]() (30 minutes) - Alivia
+
+  AI Now
+  Data & Society
+  Institute for Humanity
+  
+- Examination of algorithms in production and specific instances + how these have been unfair (30 minutes) - Camille
+- Company efforts to mitigate bias and tools (1- hour) - What if tool - IBM Tool
 - Hand- On Lab (1.5 hours)
 - Stakeholders, who is responsible and for what? (1 - hour)
-- Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts + - data scientists matter? (30 -minutes)
-- Algorithmically enhanced machines - when hardware and software combine (30 -minutes)
+
+  how to organize product - data engineering and data science workstreams - add a diagram
+  
+  
+- Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes) - Alivia
+- Algorithmically enhanced machines - when hardware and software combine (30 -minutes) - Camille
+
+  - autonomous fleets
+  - ai robots - boston dynamics
+  - surgical robots - two body systems competing 
+  - arbitrary AI systems
