@@ -50,14 +50,12 @@ In an effort to combat bias we need systems that provide transparency in algorit
 3. [Contextual Lineup - Facial Recognition Database]()
 
   - People are unknowingly added to the system
-  
-  - 
 
-4. [Dreamers - ICE Raids]()
+4. [Dreamers - ICE Raids](https://www.politico.com/story/2017/09/05/dreamers-fear-deportation-immigrants-242351)
 
-5. [Autonomous fleets - pickups]() 
+5. [Autonomous fleets - pickups](https://uberpeople.net/threads/uber-dispatch-algorithm%E2%80%94we%E2%80%99ve-been-doing-it-wrong.323822/) 
 
-6. [Housing Policies]()
+6. [Housing Policies](https://www.youtube.com/watch?v=TjKYZ5PuMAQ)
 
 ## Process
 
@@ -83,7 +81,7 @@ teach yourself more
         - Safety and critical infrastructure
     - [Data & Society](https://datasociety.net/about/)
       - Data & society is a research institute working out of New York City focused on the social nd cultural issues arising from data centric and automated technologies.
-        - [On mapping polce violence](https://www.youtube.com/watch?v=ZR64jz_eT1Q)
+        - [On mapping police violence](https://www.youtube.com/watch?v=ZR64jz_eT1Q)
     - [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
       - FHI is a multidisciplinary research institute at the University of Oxford. Academics at FHI bring the tools of mathematics, philosophy, social sciences, and science to bear on big-picture questions about humanity and its prospects. The Institute is led by founding Director Professor Nick Bostrom. Humanity has the potential for a long and flourishing future. Our mission is to shed light on crucial considerations that might shape our future.
     - [MIRI - Machine Intelligence Research Institute](https://intelligence.org/about/)
@@ -96,7 +94,9 @@ teach yourself more
 - Hand- On Lab (1.5 hours)
 - Stakeholders, who is responsible and for what? (1 - hour)
 
-  how to organize product - data engineering and data science workstreams - add a diagram
+  how to organize product - data engineering and data science workstreams
+  
+  ![alt text](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.discoverdesign.org%2Fsites%2Fdefault%2Ffiles%2Finline-images%2FCAC-Design-Process-Chart_900x867px-01.jpg&f=1)
   
   
 - Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes) - Alivia
