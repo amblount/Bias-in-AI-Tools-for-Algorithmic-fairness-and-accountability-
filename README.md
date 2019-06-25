@@ -108,7 +108,7 @@ teach yourself more
   
   
 - Data and accountability + feasibility. Who understands the data being piped into these algorithms and why do data analysts +    data scientists matter? (30 -minutes) - Alivia
-- [Algorithmically enhanced machines - when hardware and software combine (30 -minutes) - Camille(https://drive.google.com/file/d/17DmuIMZXEwYJ9V-8VW9eI3j3YSDMm4k9/view?usp=sharing)
+- [Algorithmically enhanced machines - when hardware and software combine](https://drive.google.com/file/d/17DmuIMZXEwYJ9V-8VW9eI3j3YSDMm4k9/view?usp=sharing)
 
   - autonomous fleets
   - ai robots - boston dynamics
