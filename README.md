@@ -1,4 +1,3 @@
-#The Authors 
 
 [Alivia Blount](https://www.linkedin.com/in/aliviablount/)
 
