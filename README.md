@@ -37,7 +37,9 @@ In an effort to combat bias we need systems that provide transparency in algorit
 - [AI Fairness 360 toolkit](https://aif360.mybluemix.net/)
 
 
+## Datasets
 
+[Kaggle](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&maintainerOrgId=4)
 
 
 ## Agenda
