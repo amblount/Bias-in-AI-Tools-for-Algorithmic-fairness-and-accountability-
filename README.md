@@ -3,6 +3,8 @@
 
 [Camille Eddy](https://www.linkedin.com/in/camilleeddy/)
 
+[![Alt text](https://img.youtube.com/vi/KaKToTdNRZY/hqdefault.jpg)](https://www.youtube.com/watch?v=KaKToTdNRZY)
+
 # Bias in AI Tools for Algorithmic fairness and accountability
 [Explanation of Talk](https://www.youtube.com/watch?v=LFADNppMYZQ)
 
